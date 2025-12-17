@@ -467,7 +467,7 @@ const App: React.FC = () => {
         )}
 
       </main> 
-      <Footer />
+      <Footer git="https://github.com/xiliourt/LRCGen" />
     </div>
   );
 };
